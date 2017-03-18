@@ -1,0 +1,5 @@
+C:\Users\Usuario\Source\Workspaces\LogicTest\TripletSum\TripletSum\bin\Debug\TripletSum.exe.config
+C:\Users\Usuario\Source\Workspaces\LogicTest\TripletSum\TripletSum\bin\Debug\TripletSum.exe
+C:\Users\Usuario\Source\Workspaces\LogicTest\TripletSum\TripletSum\bin\Debug\TripletSum.pdb
+C:\Users\Usuario\Source\Workspaces\LogicTest\TripletSum\TripletSum\obj\Debug\TripletSum.exe
+C:\Users\Usuario\Source\Workspaces\LogicTest\TripletSum\TripletSum\obj\Debug\TripletSum.pdb
